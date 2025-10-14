@@ -1,9 +1,6 @@
 ---
-title: My GitHub Pages Notebook!
+title: Modules (Implementation in Progress)
 ---
 
-Hello world!
-
-Write some words here!
-
-Test 1
+### Modules
+1. Academic
