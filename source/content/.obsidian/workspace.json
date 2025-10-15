@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RA-3 Rules & Regulations (PG PROGRAMME).md",
+                "file": "Academics Rules & Regulations/RA-3 Rules & Regulations (PG PROGRAMME).md",
                 "mode": "source",
                 "source": false
               },
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d560945e112047f",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Modules/Academics/Academics.md",
-    "RA-3 Rules & Regulations (PG PROGRAMME).md",
+    "Academics Rules & Regulations",
+    "Modules/Academics.md",
+    "Academics Rules & Regulations/RA-3 Rules & Regulations (PG PROGRAMME).md",
     "Modules/index.md",
     "RA3.md",
     "Modules/Academics",
