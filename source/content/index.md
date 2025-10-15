@@ -1,8 +1,3 @@
 ---
-title: Modules (Implementation in Progress)
+title: Getting Started
 ---
-
-### Modules
-1. Base Modules
-2. Academics
-3. 
