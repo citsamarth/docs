@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules/Academics.md",
+                "file": "RA-3 Rules & Regulations (PG PROGRAMME).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Academics"
+              "title": "RA-3 Rules & Regulations (PG PROGRAMME)"
             }
           }
         ]
@@ -182,8 +182,11 @@
   },
   "active": "7d560945e112047f",
   "lastOpenFiles": [
+    "Modules/Academics/Academics.md",
+    "RA-3 Rules & Regulations (PG PROGRAMME).md",
     "Modules/index.md",
-    "Modules/Academics.md",
+    "RA3.md",
+    "Modules/Academics",
     "index.md",
     "Modules"
   ]
