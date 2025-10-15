@@ -74,4 +74,4 @@
 *   **Change of Category:** Changing from 'Regular' to 'Part-Time' is allowed after completing coursework, but the student will lose assistantship eligibility and must complete the program within the maximum 4-year limit.
 *   **Dues Clearance:** Students must clear all institute, hostel, and library dues to be eligible for registration and the final degree.
 
----
+
