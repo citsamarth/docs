@@ -1,10 +1,10 @@
 
 
-### Existing Grading System – Revised (2024 Onwards)
+Existing Grading System – Revised (2024 Onwards)
 
 For awarding grades, the institute follows a **relative grading system**.
 
-### ➤ Relative Grading Formula
+### Relative Grading Formula
 
 A = (Xmax - (mean / 2)) / 7  
 where,  
@@ -13,7 +13,7 @@ where,
 
 ---
 
-### ➤ Grade Points Table
+### Grade Points Table
 
 | Grade | Grade Point | Description |
 |:------:|:------------:|:------------|
@@ -29,7 +29,7 @@ where,
 
 ---
 
-## 📊 Grade Range Calculation
+## Grade Range Calculation
 
 | Lower Limit of Marks | Grade | Upper Limit of Marks |
 | -------------------- | :---: | -------------------- |
@@ -44,7 +44,7 @@ where,
 
 ---
 
-## 🧮 SGPA & CGPA Calculation
+## SGPA & CGPA Calculation
 
 **SGPA (Semester Grade Point Average)**  
 SGPA = (C1×G1 + C2×G2 + C3×G3 + … + Cn×Gn) ÷ (C1 + C2 + C3 + … + Cn)
@@ -60,7 +60,7 @@ where:
 
 ---
 
-## 🎯 CGPA to Percentage Conversion
+## CGPA to Percentage Conversion
 
 | Condition | Formula for % of Marks |
 |------------|------------------------|
@@ -69,7 +69,7 @@ where:
 
 ---
 
-## 🆕 Modifications (Effective 2024 Onwards)
+## Modifications (Effective 2024 Onwards)
 
 The same relative grading system continues with the following additional provisions:
 
