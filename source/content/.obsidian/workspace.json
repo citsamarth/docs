@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules/Academics/RA-3 PG.md",
+                "file": "Modules/Academics/Rules & Regulations/RA-3 PG.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules/Academics/Grading System.md",
-                "mode": "preview",
+                "file": "Modules/Academics/Introduction.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grading System"
+              "title": "Introduction"
             }
           }
         ],
@@ -197,10 +197,11 @@
   },
   "active": "3b3c5446f91c02ed",
   "lastOpenFiles": [
-    "Modules/Academics/RA-3 PG.md",
-    "Modules/Academics/index.md",
+    "Modules/Academics/Rules & Regulations",
+    "Modules/Academics/Rules & Regulations/Grading System.md",
+    "Modules/Academics/Rules & Regulations/RA-3 PG.md",
+    "Modules/Academics/Introduction.md",
     "Modules/index.md",
-    "Modules/Academics/Grading System.md",
     "Modules/Academics",
     "Untitled.md",
     "Academics Rules & Regulations",
