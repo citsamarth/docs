@@ -29,7 +29,7 @@ where,
 
 ---
 
-## Grade Range Calculation
+### Grade Range Calculation
 
 | Lower Limit of Marks | Grade | Upper Limit of Marks |
 | -------------------- | :---: | -------------------- |
@@ -44,7 +44,7 @@ where,
 
 ---
 
-## SGPA & CGPA Calculation
+### SGPA & CGPA Calculation
 
 **SGPA (Semester Grade Point Average)**  
 SGPA = (C1×G1 + C2×G2 + C3×G3 + … + Cn×Gn) ÷ (C1 + C2 + C3 + … + Cn)
@@ -60,7 +60,7 @@ where:
 
 ---
 
-## CGPA to Percentage Conversion
+### CGPA to Percentage Conversion
 
 | Condition | Formula for % of Marks |
 |------------|------------------------|
@@ -69,40 +69,40 @@ where:
 
 ---
 
-## Modifications (Effective 2024 Onwards)
+### Modifications (Effective 2024 Onwards)
 
 The same relative grading system continues with the following additional provisions:
 
-### (a) Course Instructor Responsibilities
+#### (a) Course Instructor Responsibilities
 - Each instructor sets the **maximum expected marks** for awarding ‘AA’.  
 - For courses taught by multiple instructors, they decide this collectively.  
 - **Minimum passing marks:**
   1. If (mean / 2) ≥ 30%, use it as pass mark.  
   2. If (mean / 2) < 30%, increase it by 10%.
 
-### (b) Adjustment for High Failure Rate
+#### (b) Adjustment for High Failure Rate
 If there is an unusually high number of failures:  
 - The HoD, course instructor, and Departmental Program Committee decide new **pass mark** and **AA maximum mark**.
 
-### (c) Supplementary Examination
+#### (c) Supplementary Examination
 - Students failing initially get grade **‘I’ (Intermediate)**.  
 - Supplementary exam within **15 days** of results.  
 - If passed → maximum grade **‘BC’**.  
 - If failed → grade **‘FP’**.  
 - Students with ‘FP’ may reappear as **Compartmental candidates** with the next regular batch.
 
-### (d) Compartmental Examination
+#### (d) Compartmental Examination
 - For students with **‘FA’ (attendance fail)** or who missed supplementary exam.  
 - If passed → maximum grade **‘BB’**.
 
-### (e) Audit / Non-Credit Courses
+#### (e) Audit / Non-Credit Courses
 - Grades: **‘PP’ (Pass)** or **‘FP’ (Fail)**.  
 - Examination procedure same as credit courses.
 
-### (f) Credit Transfer from MOOC
+#### (f) Credit Transfer from MOOC
 - Institute will follow **UGC/AICTE** guidelines for transferring credits.
 
-### (g) Classification Based on CGPA
+#### (g) Classification Based on CGPA
 
 | CGPA Range | Classification |
 |-------------|----------------|
@@ -112,5 +112,6 @@ If there is an unusually high number of failures:
 
 ---
 
-## 📎 Reference
+
+#### Reference
 Annexure 9 – Draft of Revised Grading System (Pages 380–383, 17th Minutes of Senate Meeting of Central Institute of Technology Kokrajhar, 23 August 2024)
