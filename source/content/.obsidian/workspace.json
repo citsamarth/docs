@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules/Academics/RA-3 PG.md",
+                "file": "Modules/index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RA-3 PG"
+              "title": "index"
             }
           }
         ],
@@ -195,13 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b3c5446f91c02ed",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Modules/Academics/index.md",
     "Modules/Academics/Grading System.md",
-    "Modules/Academics.md",
+    "Modules/Academics/RA-3 PG.md",
     "Modules/Academics",
     "Untitled.md",
-    "Modules/Academics/RA-3 PG.md",
     "Academics Rules & Regulations",
     "Modules/index.md",
     "RA3.md",
