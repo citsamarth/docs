@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "CITSamarth Guide",
+    pageTitle: "handbook",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -40,15 +40,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          "light": "#1a1a1c",
-          "lightgray": "#423a3a",
-          "gray": "#7a6a67",
-          "darkgray": "#d8cfcc",
-          "dark": "#f0e9e6",
-          "secondary": "#c4a287",
-          "tertiary": "#d4a373",
-          "highlight": "rgba(212, 163, 115, 0.18)",
-          "textHighlight": "#e9c46a88"
+          light: "#161618",
+          lightgray: "#393639",
+          gray: "#646464",
+          darkgray: "#d4d4d4",
+          dark: "#ebebec",
+          secondary: "#7b97aa",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#b3aa0288",
         },
       },
     },
