@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academics Rules & Regulations/RA-3 Rules & Regulations (PG PROGRAMME).md",
+                "file": "Modules/Academics/RA-3 PG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RA-3 Rules & Regulations (PG PROGRAMME)"
+              "title": "RA-3 PG"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academics Rules & Regulations/Existing Grading System – Revised (2024 Onwards).md",
+                "file": "Modules/Academics/RA-3 PG.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Existing Grading System – Revised (2024 Onwards)"
+              "title": "RA-3 PG"
             }
           }
         ],
@@ -197,11 +197,12 @@
   },
   "active": "3b3c5446f91c02ed",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Academics Rules & Regulations/Existing Grading System – Revised (2024 Onwards).md",
-    "Academics Rules & Regulations/RA-3 Rules & Regulations (PG PROGRAMME).md",
-    "Academics Rules & Regulations",
+    "Modules/Academics/Grading System.md",
     "Modules/Academics.md",
+    "Modules/Academics",
+    "Untitled.md",
+    "Modules/Academics/RA-3 PG.md",
+    "Academics Rules & Regulations",
     "Modules/index.md",
     "RA3.md",
     "Modules/Academics",
